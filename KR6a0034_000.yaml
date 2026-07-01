@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6a0034/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 法海經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T01/T01n0034.xml
+    old_id: T01n0034
+hash: sha256:ad7b70fce07d0bd27fecb04216bc09dfc5757798691e21d195b2be8d940d2941
